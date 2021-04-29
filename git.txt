@@ -1,0 +1,7 @@
+
+
+git clone link
+-> thư mục chứa code
+git add .
+git commit -m "first commit"
+git push
